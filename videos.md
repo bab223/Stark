@@ -21,4 +21,4 @@ permalink: /videos.html
 
 
 
-<pr> [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
