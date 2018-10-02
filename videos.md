@@ -6,7 +6,10 @@ permalink: /videos.html
 ---
 # Videos Test
 
-This is my website. I am an _Business Administration_ major at **Texas State University**. I am currently studying and classified as a Senior. If you would like to know more about me, please feel free to send me an email at [bab223@txstate.edu](bab223@txstate.edu)
+<video width="320" height="240" controls>
+  <source src="https://github.com/bab223/Hosting/blob/master/your%20small%20back.mp4?raw=true" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
