@@ -1,3 +1,0 @@
-# Stark
-
-<b>Hello</b>
