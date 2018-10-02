@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Follow my social media below.
+<!-- Follow my social media below. -->

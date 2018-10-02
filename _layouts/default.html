@@ -55,7 +55,7 @@
 
     <section class="page-header" role="banner">
       <!-- <h1 class="project-name"><b><img src="https://raw.githubusercontent.com/bab223/Testing/master/Nike%20Logo.png" width="250" height="100" alt="Nike" /></b></h1> -->
-      <h1 class="project-name"><b><img src="https://raw.githubusercontent.com/bab223/Hosting/master/BB1.png" width="311" height="450" alt="Blanchard" /></b></h1>
+      <h1 class="project-name"><b><img src="https://raw.githubusercontent.com/bab223/Hosting/master/BB1.png" width="155" height="225" alt="Blanchard" /></b></h1>
       <h2 class="project-tagline">BLAIN ALLEN BLANCHARD</h2>
       <!-- <h3 class="project-tagline"><b>designed by myself.</b></h3> -->
         <a href="http://twitter.com/xblainx" class="btn"><b>Twitter</b></a>
@@ -63,6 +63,7 @@
       <!-- Post tagline -->
       {% if page.layout == 'post' %}
         <h2 class="project-date">
+        <h1 class="project-name"><b><img src="" width="50" height="50" alt=""/></b></h1>
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
           {% assign date_format = site.cayman-blog.date_format | default: "%b %-d, %Y" %}
           {{ page.date | date: date_format }}
