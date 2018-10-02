@@ -1,11 +1,11 @@
 ---
-layout: page
-title: My Videos
-tagline: All my videos
+layout: post
+title: Contact
+tagline: Create a contact form and you are good to go
 ---
 
 <center>
-THIS SITE IS UNDER CONSTRUCTION!
+THIS SITE IS UNDER CONSTRUCTION<br>
 
 Please try again later.
 </center>
